@@ -1,0 +1,6 @@
+HTML structure Locators
+Parent locator tags: section li.col-xs-6.col-sm-4.col-md-3.col-lg-3
+Book title: article.product_pod h3 a
+Price: article.product_pod div.product_price p.price_color
+Star-rating: article.product_pod p.star-rating
+Page no: section ul.pager li.current
